@@ -1,0 +1,15 @@
+del ±³¾°¶¯»­²¥·Å.jar
+del ±³¾°¶¯»­²¥·Å$1.class
+del ±³¾°¶¯»­²¥·Å$2.class
+del ±³¾°¶¯»­²¥·Å$3.class
+del ±³¾°¶¯»­²¥·Å$4.class
+del ±³¾°¶¯»­²¥·Å$5.class
+del ±³¾°¶¯»­²¥·Å$6.class
+del ±³¾°¶¯»­²¥·Å$7.class
+del ±³¾°¶¯»­²¥·Å$8.class
+del ±³¾°¶¯»­²¥·Å$Kernel32.class
+del ±³¾°¶¯»­²¥·Å$MpvClient$1.class
+del ±³¾°¶¯»­²¥·Å$MpvClient.class
+del ±³¾°¶¯»­²¥·Å$User32$WNDENUMPROC.class
+del ±³¾°¶¯»­²¥·Å$User32.class
+del ±³¾°¶¯»­²¥·Å.class
