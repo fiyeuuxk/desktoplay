@@ -1,7 +1,10 @@
 # desktoplay
 桌面背景播放视频
+
 AGPL-3.0 License
+
 <one line to give the program's name and a brief idea of what it does.>
+
     Copyright (C) <2026>  <fiyeuuxk>
 
     This program is free software: you can redistribute it and/or modify
@@ -24,4 +27,5 @@ C:\Users\Administrator\Documents\02-软件\05-动画\mpv
 还要安装JDK25官网https://jdk.java.net/25/
 在mpv文件夹中新建一个portable_config文件夹
 在portable_config文件夹中新建一个mpv.conf
+
 文件内容是loop-playlist=inf这样就能循环播放视频了
